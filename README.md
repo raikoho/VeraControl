@@ -42,8 +42,9 @@ It simplifies working with VeraCrypt volumes in environments where portable usag
 
 4. Edit the script to set:
 
-veracrypt_path — full path to your VeraCrypt portable executable
-volume_path — default .hc volume file
+``veracrypt_path`` — full path to your VeraCrypt portable executable
+
+``volume_path`` — default .hc volume file
 
 ## 💼 Usage
 Run the script from terminal:
