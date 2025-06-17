@@ -36,8 +36,8 @@ It simplifies working with VeraCrypt volumes in environments where portable usag
 3. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-username/veracrypt-controller.git
-   cd veracrypt-controller
+   git clone https://github.com/raikoho/VeraControl.git
+   cd VeraControl
    ```
 
 4. Edit the script to set:
@@ -49,7 +49,7 @@ volume_path — default .hc volume file
 Run the script from terminal:
 
 ```bash
-python veracrypt_controller.py
+python veracontrol.py
 ```
 
 ## 🔒 Hidden Functionality
